@@ -1,6 +1,6 @@
 const customizationJson: ThemeProps = {
-  collection: 'cryptocadets',
-  owner: 'cryptocadets',
+  collection: 'pixelhero1st',
+  owner: 'thomashp',
   typography: {
     h1: {
       font: 'Bebas Neue',
@@ -47,22 +47,18 @@ const customizationJson: ThemeProps = {
   },
   navbar: {
     logo: '/logo.png',
-    logoLink: '/',
+    logoLink: 'www.pixelheroes.in',
     backgroundColor: '#ffffff',
     defaultAvatarImage: '/default-avatar.png',
     navLinkFontType: 'label',
     navLinks: [
       // recommended 3 - 5
       {
-        link: 'https://google.com',
+        link: 'https://www.pixelheroes.in/merchandise',
         color: '#000000',
       },
       {
-        link: 'https://google.com',
-        color: '#000000',
-      },
-      {
-        link: 'https://google.com',
+        link: 'https://www.pixelheroes.in/get-pixel',
         color: '#000000',
       },
       {
@@ -123,7 +119,7 @@ const customizationJson: ThemeProps = {
     },
   },
   featuredSection: {
-    carousel: true,
+    carousel: false,
     titleFont: {
       type: 'h2',
       color: '#000000',
@@ -150,7 +146,7 @@ const customizationJson: ThemeProps = {
       color: 'grey',
     },
     button: {
-      isShown: true,
+      isShown: false,
       textColor: 'white',
       textFont: 'caption',
       backgroundColor: 'black',

@@ -2,14 +2,14 @@ const localizationJson: LocalizationText = {
   en: {
     header: {
       highlightText: 'E X C L U S I V E',
-      headerLine1: 'CRYPTO CADETS',
-      headerLine2: 'COLLECTIBLE NFTS',
+      headerLine1: 'PIXEL HEROES',
+      headerLine2: 'COLLECTIBLE TRADING CARD NFTS',
       description:
-        'These exclusive crypto cadets were created to help showcase the Proton Market.',
-      buttonText: 'LABEL',
+        'Fun, collectible, trading cards with personality!',
+      buttonText: 'Collect now!',
     },
     navbar: {
-      navLinks: ['BIO', 'BUSINESS', 'AUCTIONS', 'MY ITEMS'],
+      navLinks: ['MERCH', 'GET PIXEL', 'MY ITEMS'],
       balanceText: 'Balance',
       loginText: 'Connect Wallet',
     },
@@ -29,7 +29,7 @@ const localizationJson: LocalizationText = {
       soldOut: 'SOLD OUT',
     },
     featuredSection: {
-      heading: 'BREAKING NOW',
+      heading: 'Collect Now!',
     },
     myItemsPage: {
       header: 'MY ITEMS',
