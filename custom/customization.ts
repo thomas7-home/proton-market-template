@@ -1,6 +1,6 @@
 const customizationJson: ThemeProps = {
-  collection: 'cryptocadets',
-  owner: 'cryptocadets',
+  collection: '322444512232',
+  owner: 'blakewrobbel',
   typography: {
     h1: {
       font: 'Bebas Neue',
