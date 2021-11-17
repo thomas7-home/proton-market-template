@@ -46,7 +46,7 @@ const customizationJson: ThemeProps = {
     },
   },
   navbar: {
-    logo: '/logo.png',
+    logo: '',
     logoLink: '/',
     backgroundColor: '#ffffff',
     defaultAvatarImage: '/default-avatar.png',
@@ -78,7 +78,7 @@ const customizationJson: ThemeProps = {
     bottomBorderColor: '#cccccc',
   },
   footer: {
-    logo: '/logo.png',
+    logo: '',
     socialMediaLinks: [
       {
         link: 'https://facebook.com',
@@ -123,7 +123,7 @@ const customizationJson: ThemeProps = {
     },
   },
   featuredSection: {
-    carousel: true,
+    carousel: false,
     titleFont: {
       type: 'h2',
       color: '#000000',
@@ -133,7 +133,7 @@ const customizationJson: ThemeProps = {
     carouselButtonsBorderColor: 'lightgrey',
   },
   header: {
-    image: '/header-image.png',
+    image: 'https://bloks.io/cdn-cgi/image/width=500/https://ipfs.io/ipfs/QmbDGxkM6sUQywDQxm7hMX2HLCv3ga9G86LXaU4wHQqbuj',
     imagePlacement: 'right',
     backgroundColor: 'white',
     highlightFont: {
@@ -154,7 +154,7 @@ const customizationJson: ThemeProps = {
       textColor: 'white',
       textFont: 'caption',
       backgroundColor: 'black',
-      link: 'https:/google.com',
+      link: 'https://t.me/ProtonSkulls',
     },
   },
   myItemsPage: {

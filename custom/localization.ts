@@ -1,15 +1,15 @@
 const localizationJson: LocalizationText = {
   en: {
     header: {
-      highlightText: 'E X C L U S I V E',
-      headerLine1: 'CRYPTO CADETS',
+      highlightText: 'Hand-Crafted!',
+      headerLine1: 'Proton Skulls',
       headerLine2: 'COLLECTIBLE NFTS',
       description:
-        'These exclusive crypto cadets were created to help showcase the Proton Market.',
-      buttonText: 'LABEL',
+        'Proton-exclusive pixel skulls inspired by Wicked Craniums, Punks, and Pixel Heroes. Every skull is hand-crafted - no skulls are randomly generated or programmed.',
+      buttonText: 'Join Telegram!',
     },
     navbar: {
-      navLinks: ['BIO', 'BUSINESS', 'AUCTIONS', 'MY ITEMS'],
+      navLinks: ['HOME', 'PROTONMINT', 'ABOUT', 'MY ITEMS'],
       balanceText: 'Balance',
       loginText: 'Connect Wallet',
     },
