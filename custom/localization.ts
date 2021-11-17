@@ -9,7 +9,7 @@ const localizationJson: LocalizationText = {
       buttonText: 'Collect now!',
     },
     navbar: {
-      navLinks: ['MERCH', 'GET PIXEL', 'MY ITEMS'],
+      navLinks: ['MERH', 'GET PIXEL', 'MY ITEMS'],
       balanceText: 'Balance',
       loginText: 'Connect Wallet',
     },
