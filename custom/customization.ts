@@ -1,6 +1,6 @@
 const customizationJson: ThemeProps = {
-  collection: '322444512232',
-  owner: 'blakewrobbel',
+  collection: 'pixelhero1st',
+  owner: 'thomashp',
   typography: {
     h1: {
       font: 'Bebas Neue',
@@ -46,23 +46,19 @@ const customizationJson: ThemeProps = {
     },
   },
   navbar: {
-    logo: '',
-    logoLink: '/',
+    logo: '/logo.png',
+    logoLink: 'www.pixelheroes.in',
     backgroundColor: '#ffffff',
     defaultAvatarImage: '/default-avatar.png',
     navLinkFontType: 'label',
     navLinks: [
       // recommended 3 - 5
       {
-        link: 'https://google.com',
+        link: 'https://www.pixelheroes.in/merchandise',
         color: '#000000',
       },
       {
-        link: 'https://google.com',
-        color: '#000000',
-      },
-      {
-        link: 'https://google.com',
+        link: 'https://www.pixelheroes.in/get-pixel',
         color: '#000000',
       },
       {
@@ -78,7 +74,7 @@ const customizationJson: ThemeProps = {
     bottomBorderColor: '#cccccc',
   },
   footer: {
-    logo: '',
+    logo: '/logo.png',
     socialMediaLinks: [
       {
         link: 'https://facebook.com',
@@ -133,7 +129,7 @@ const customizationJson: ThemeProps = {
     carouselButtonsBorderColor: 'lightgrey',
   },
   header: {
-    image: 'https://bloks.io/cdn-cgi/image/width=500/https://ipfs.io/ipfs/QmbDGxkM6sUQywDQxm7hMX2HLCv3ga9G86LXaU4wHQqbuj',
+    image: '/header-image.png',
     imagePlacement: 'right',
     backgroundColor: 'white',
     highlightFont: {
@@ -150,11 +146,11 @@ const customizationJson: ThemeProps = {
       color: 'grey',
     },
     button: {
-      isShown: true,
+      isShown: false,
       textColor: 'white',
       textFont: 'caption',
       backgroundColor: 'black',
-      link: 'https://t.me/ProtonSkulls',
+      link: 'https:/google.com',
     },
   },
   myItemsPage: {
