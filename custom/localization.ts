@@ -1,15 +1,15 @@
 const localizationJson: LocalizationText = {
   en: {
     header: {
-      highlightText: 'Hand-Crafted!',
-      headerLine1: 'Proton Skulls',
-      headerLine2: 'COLLECTIBLE NFTS',
+      highlightText: 'E X C L U S I V E',
+      headerLine1: 'PIXEL HEROES',
+      headerLine2: 'COLLECTIBLE TRADING CARD NFTS',
       description:
-        'Proton-exclusive pixel skulls inspired by Wicked Craniums, Punks, and Pixel Heroes. Every skull is hand-crafted - no skulls are randomly generated or programmed.',
-      buttonText: 'Join Telegram!',
+        'Fun, collectible, trading cards with personality!',
+      buttonText: 'Collect now!',
     },
     navbar: {
-      navLinks: ['HOME', 'PROTONMINT', 'ABOUT', 'MY ITEMS'],
+      navLinks: ['MERH', 'GET PIXEL', 'MY ITEMS'],
       balanceText: 'Balance',
       loginText: 'Connect Wallet',
     },
@@ -29,7 +29,7 @@ const localizationJson: LocalizationText = {
       soldOut: 'SOLD OUT',
     },
     featuredSection: {
-      heading: 'BREAKING NOW', // optional
+      heading: 'Collect Now!',
     },
     myItemsPage: {
       header: 'MY ITEMS',
