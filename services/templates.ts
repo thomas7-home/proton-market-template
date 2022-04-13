@@ -193,7 +193,6 @@ export const getLowestPricesForAllCollectionTemplates = async ({
   while (hasResults) {
     const salesQueryObject = {
       collection_name: type,
-      owner,
       symbol: TOKEN_SYMBOL,
       order: 'desc',
       // sort: 'created',

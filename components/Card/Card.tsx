@@ -76,7 +76,7 @@ export const Card: FC<Props> = ({
       <QuantityText {...countFont} typography={typography}>
         {formattedSaleCount ? (
           type === 'featured' ? (
-            `${formattedSaleCount} ${nftCardText.nftsLeft}`
+            ``
           ) : (
             `${formattedSaleCount}/${max_supply} ${nftCardText.nftsOwnedForSale}`
           )

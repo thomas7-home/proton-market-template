@@ -1,15 +1,15 @@
 const localizationJson: LocalizationText = {
   en: {
     header: {
-      highlightText: 'E X C L U S I V E',
-      headerLine1: 'CRYPTO CADETS',
-      headerLine2: 'COLLECTIBLE NFTS',
+      highlightText: 'N E W',
+      headerLine1: 'Proton Vikings',
+      headerLine2: 'Join the Horde!',
       description:
-        'These exclusive crypto cadets were created to help showcase the Proton Market.',
-      buttonText: 'LABEL',
+        'Join our Telegram to learn all about XPR Raids',
+      buttonText: 'Telegram',
     },
     navbar: {
-      navLinks: ['BIO', 'BUSINESS', 'AUCTIONS', 'MY ITEMS'],
+      navLinks: ['ABOUT', 'RAID LEADERS', 'AUCTIONS', 'MY ITEMS'],
       balanceText: 'Balance',
       loginText: 'Connect Wallet',
     },
@@ -24,12 +24,12 @@ const localizationJson: LocalizationText = {
       cancelSaleButtonText: 'CANCEL SALE ON PROTON MARKET',
     },
     nftCard: {
-      nftsLeft: 'LEFT',
+      nftsLeft: '',
       nftsOwnedForSale: 'FOR SALE',
       soldOut: 'SOLD OUT',
     },
     featuredSection: {
-      heading: 'BREAKING NOW', // optional
+      heading: 'BUY NOW', // optional
     },
     myItemsPage: {
       header: 'MY ITEMS',

@@ -15,7 +15,7 @@ export const HeaderContent = styled(MaxWidth)<{ imagePlacement: string }>`
   display: flex;
   flex-direction: ${({ imagePlacement }) =>
     imagePlacement === 'right' ? 'row' : 'row-reverse'};
-  height: 640px;
+  height: 707px;
   padding-top: 12px;
 
   ${breakpoint.tablet`
